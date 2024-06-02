@@ -2,10 +2,7 @@
 % Please edit documentation in R/count_classes.R
 \name{count_classes}
 \alias{count_classes}
-\title{Count class observations
-Creates a new data frame with two columns,
-listing the classes present in the input data frame,
-and the number of observations for each class.}
+\title{Count class observations}
 \usage{
 count_classes(data_frame, class_col)
 }
@@ -21,7 +18,6 @@ The second column (named count) lists the number of observations for each class 
 It will have one row for each class present in input data frame.
 }
 \description{
-Count class observations
 Creates a new data frame with two columns,
 listing the classes present in the input data frame,
 and the number of observations for each class.
