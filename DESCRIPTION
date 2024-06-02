@@ -5,8 +5,8 @@ Authors@R:
   person(
   "A", "Putman",
     email = "andrew.putman@ontariotechu.net",
-    role = c("aut", "cre")
-  ),
+    role = c("aut", "cre"),
+  )
 Description: Provide data wrangling and summary functions to conduct a proper 
     exploratory data analysis.
 License: MIT + file LICENSE
