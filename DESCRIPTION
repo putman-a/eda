@@ -1,8 +1,9 @@
 Package: eda
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
-Authors@R:person(
-    "A", "Putman",
+Authors@R:
+  person(
+  "A", "Putman",
     email = "andrew.putman@ontariotechu.net",
     role = c("aut", "cre")
   ),
