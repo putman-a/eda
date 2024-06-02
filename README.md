@@ -4,6 +4,8 @@
 # eda
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/putman-a/eda/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/putman-a/eda/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of eda is to provide data wrangling and summary functions to
